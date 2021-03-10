@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>144B7C60-204A-416E-85D8-79990AE599AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>144B7C60-204A-416E-85D8-79990AE599AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637068052.38316095</real>
+			<key>timeStoppedRecording</key>
+			<real>637068052.85182095</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>144B7C60-204A-416E-85D8-79990AE599AC</string>
+		</dict>
+		<key>37E193BB-17A3-4B47-8E36-17FBAC0C0581</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>37E193BB-17A3-4B47-8E36-17FBAC0C0581.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637067656.39686096</real>
+			<key>timeStoppedRecording</key>
+			<real>637067658.26297796</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>37E193BB-17A3-4B47-8E36-17FBAC0C0581</string>
+		</dict>
+		<key>4A365D6B-50EE-4B60-9023-AA18A1CA0F45</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A365D6B-50EE-4B60-9023-AA18A1CA0F45.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637067794.77341497</real>
+			<key>timeStoppedRecording</key>
+			<real>637067795.424384</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>4A365D6B-50EE-4B60-9023-AA18A1CA0F45</string>
+		</dict>
+		<key>78ED8784-F5A3-4CCA-A662-A3E5C84011B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>78ED8784-F5A3-4CCA-A662-A3E5C84011B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637067897.25706804</real>
+			<key>timeStoppedRecording</key>
+			<real>637067897.59068096</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>78ED8784-F5A3-4CCA-A662-A3E5C84011B3</string>
+		</dict>
+		<key>861700ED-0D2A-4FD6-982A-FE592A77472B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>861700ED-0D2A-4FD6-982A-FE592A77472B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637068167.34463704</real>
+			<key>timeStoppedRecording</key>
+			<real>637068167.923172</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>861700ED-0D2A-4FD6-982A-FE592A77472B</string>
+		</dict>
+		<key>B66595B5-EA01-44B9-922C-244F44A367D8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B66595B5-EA01-44B9-922C-244F44A367D8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637067890.61928105</real>
+			<key>timeStoppedRecording</key>
+			<real>637067891.14678097</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>B66595B5-EA01-44B9-922C-244F44A367D8</string>
+		</dict>
+		<key>C4F49173-3770-4DFB-B815-000F1999E014</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4F49173-3770-4DFB-B815-000F1999E014.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637067840.56900597</real>
+			<key>timeStoppedRecording</key>
+			<real>637067840.88703799</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>C4F49173-3770-4DFB-B815-000F1999E014</string>
+		</dict>
+		<key>C5675715-D371-4E91-B7CA-6AEF0C559F09</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C5675715-D371-4E91-B7CA-6AEF0C559F09.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637067851.34086502</real>
+			<key>timeStoppedRecording</key>
+			<real>637067851.81650305</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>C5675715-D371-4E91-B7CA-6AEF0C559F09</string>
+		</dict>
+		<key>C709DC4B-85B7-4346-A246-4C10434B1AD8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C709DC4B-85B7-4346-A246-4C10434B1AD8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637067827.50248098</real>
+			<key>timeStoppedRecording</key>
+			<real>637067827.93747199</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>C709DC4B-85B7-4346-A246-4C10434B1AD8</string>
+		</dict>
+		<key>EFBF70FE-1CC4-4742-A3D7-FD34FDE2642F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EFBF70FE-1CC4-4742-A3D7-FD34FDE2642F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637067912.31795394</real>
+			<key>timeStoppedRecording</key>
+			<real>637067912.67284501</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>EFBF70FE-1CC4-4742-A3D7-FD34FDE2642F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

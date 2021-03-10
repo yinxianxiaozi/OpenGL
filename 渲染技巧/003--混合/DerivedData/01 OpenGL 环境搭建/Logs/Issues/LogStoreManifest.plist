@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>AEE56187-D72C-45EB-916C-1999CD10B9EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>AEE56187-D72C-45EB-916C-1999CD10B9EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>01_OpenGL_环境搭建-ciavppczrajwbdcsvqhitybadmdx</string>
+			<key>timeStartedRecording</key>
+			<real>637069024.41795802</real>
+			<key>timeStoppedRecording</key>
+			<real>637069025.03573</real>
+			<key>title</key>
+			<string>Build target 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>AEE56187-D72C-45EB-916C-1999CD10B9EA</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
