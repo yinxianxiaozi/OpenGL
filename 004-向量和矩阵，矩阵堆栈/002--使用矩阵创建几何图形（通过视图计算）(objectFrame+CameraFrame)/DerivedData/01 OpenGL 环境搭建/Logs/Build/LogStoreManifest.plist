@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>39FCEDDF-8C59-40E9-98D1-340F07F85FF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>39FCEDDF-8C59-40E9-98D1-340F07F85FF1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637684318.66905296</real>
+			<key>timeStoppedRecording</key>
+			<real>637684319.61946797</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>39FCEDDF-8C59-40E9-98D1-340F07F85FF1</string>
+		</dict>
+		<key>6A12C70B-DB92-43A1-85F4-3FC7E97549F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6A12C70B-DB92-43A1-85F4-3FC7E97549F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>01 OpenGL 环境搭建 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>01 OpenGL 环境搭建</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>timeStartedRecording</key>
+			<real>637685228.42830706</real>
+			<key>timeStoppedRecording</key>
+			<real>637685230.50818896</real>
+			<key>title</key>
+			<string>Build 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>6A12C70B-DB92-43A1-85F4-3FC7E97549F9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
