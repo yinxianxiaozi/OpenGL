@@ -34,6 +34,34 @@
 			<key>uniqueIdentifier</key>
 			<string>77FF8A26-EE48-4175-B440-35C919376EAD</string>
 		</dict>
+		<key>9AEF9DDF-2AD0-413A-85D2-215A7DB8FE8D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>9AEF9DDF-2AD0-413A-85D2-215A7DB8FE8D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>01_OpenGL_环境搭建-bzorlsnjnkcvbiaiqhhfxefsffbf</string>
+			<key>timeStartedRecording</key>
+			<real>637720478.90562606</real>
+			<key>timeStoppedRecording</key>
+			<real>637720482.23125601</real>
+			<key>title</key>
+			<string>Build target 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>9AEF9DDF-2AD0-413A-85D2-215A7DB8FE8D</string>
+		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
 	<true/>

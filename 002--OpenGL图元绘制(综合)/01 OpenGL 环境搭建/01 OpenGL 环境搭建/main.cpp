@@ -27,20 +27,20 @@
  GLMatrixStack 构造函数允许指定堆栈的最大深度、默认的堆栈深度为64.这个矩阵堆在初始化时已经在堆栈中包含了单位矩阵。
  GLMatrixStack::GLMatrixStack(int iStackDepth = 64);
  
- //通过调用顶部载入这个单位矩阵
+ //通过调用顶部载入一个单位矩阵
  void GLMatrixStack::LoadIndentiy(void);
  
  //在堆栈顶部载入任何矩阵
  void GLMatrixStack::LoadMatrix(const M3DMatrix44f m);
  */
 // 各种需要的类
-GLShaderManager		shaderManager;
-GLMatrixStack		modelViewMatrix;
-GLMatrixStack		projectionMatrix;
-GLFrame				cameraFrame;
-GLFrame             objectFrame;
+GLShaderManager		shaderManager;//固定管线
+GLMatrixStack		modelViewMatrix;//模型视图矩阵堆栈
+GLMatrixStack		projectionMatrix;//投影矩阵堆栈
+GLFrame				cameraFrame;//摄像机视图
+GLFrame             objectFrame;//物体视图
 //投影矩阵
-GLFrustum			viewFrustum;
+GLFrustum			viewFrustum;//投影视景体
 
 //容器类（7种不同的图元对应7种容器对象）
 GLBatch				pointBatch;
@@ -52,7 +52,7 @@ GLBatch             triangleStripBatch;
 GLBatch             triangleFanBatch;
 
 //几何变换的管道
-GLGeometryTransform	transformPipeline;
+GLGeometryTransform	transformPipeline;//用来管理矩阵堆栈，帮组我们进行堆栈计算
 
 GLfloat vGreen[] = { 0.0f, 1.0f, 0.0f, 1.0f };
 GLfloat vBlack[] = { 0.0f, 0.0f, 0.0f, 1.0f };
@@ -70,10 +70,10 @@ void SetupRC()
     // 灰色的背景
     glClearColor(0.7f, 0.7f, 0.7f, 1.0f );
     shaderManager.InitializeStockShaders();
-    glEnable(GL_DEPTH_TEST);
-    //设置变换管线以使用两个矩阵堆栈
+    glEnable(GL_DEPTH_TEST);//这是深度测试，后续再细看
+    //设置变换管线以使用两个矩阵堆栈，直接把矩阵堆栈放入即可
     transformPipeline.SetMatrixStacks(modelViewMatrix, projectionMatrix);
-    cameraFrame.MoveForward(-15.0f);
+    cameraFrame.MoveForward(-15.0f);//摄像机视图向屏幕内移动15个单位
     
     /*
      常见函数：
@@ -300,12 +300,14 @@ void RenderScene(void)
     // Clear the window with current clearing color
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT | GL_STENCIL_BUFFER_BIT);
    
-    //压栈
+    //压栈，先将栈顶矩阵复制一份，并压栈
     modelViewMatrix.PushMatrix();
+    
+    //得到摄像机视图改变的矩阵mCamera
     M3DMatrix44f mCamera;
     cameraFrame.GetCameraMatrix(mCamera);
     
-    //矩阵乘以矩阵堆栈的顶部矩阵，相乘的结果随后简存储在堆栈的顶部
+    //矩阵乘以矩阵堆栈的顶部矩阵，相乘的结果随后覆盖原来的栈顶矩阵存储在堆栈的顶部
     modelViewMatrix.MultMatrix(mCamera);
     
     M3DMatrix44f mObjectFrame;

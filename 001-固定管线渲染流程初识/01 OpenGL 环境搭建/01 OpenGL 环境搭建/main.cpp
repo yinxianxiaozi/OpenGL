@@ -27,7 +27,7 @@ GLShaderManager shaderManager;
 
 /*
  1、使用前需要glutReshapeFunc(函数名)注册为重塑函数
- 2、0,0代表窗口中视口的左下角坐标，w，h代表像素
+ 2、0,0代表窗口中视口的左下角坐标，w，h代表宽高像素
  3、自定义函数，名字可以随便起，只要是通过glutReshapeFunc注册就可以
  
  触发条件：
@@ -36,7 +36,7 @@ GLShaderManager shaderManager;
  
  处理业务：
     设置OpenGL视口
-    设置OpenGL投影方式
+    设置OpenGL投影方式（因为这里有坐标，所以直接在这里设置）
  */
 
 void ChangeSize(int w,int h)
@@ -50,7 +50,7 @@ void ChangeSize(int w,int h)
 //为程序作一次性的设置
 
 /*
- 1、设置需要渲染的图形的数据准备工作，比如顶点数据、颜色数据等数据
+ 1、设置需要渲染的图形的数据初始化工作，比如顶点数据、颜色数据等数据
  2、自定义函数，名字可以随便写
  
  触发条件：
@@ -59,7 +59,7 @@ void ChangeSize(int w,int h)
  处理业务：
     1、设置窗口背景颜色
     2、初始化存储着色器ShaderManager
-    3、设置图像顶点数据
+    3、初始化图形顶点数据
     4、将数据传递到着色器（利用GLBatch三角形批次类）
  */
 
@@ -91,7 +91,7 @@ void SetupRC()
      建立一个三角形的批次
      */
     
-    triangleBatch.Begin(GL_TRIANGLES,3);//图像的连接方式，GL_TRIANGLES表示是三角形，3表示顶点是三个顶点
+    triangleBatch.Begin(GL_TRIANGLES,3);//GL_TRIANGLES表示是三角形，是图像的连接方式，3表示顶点是三个顶点
     
     triangleBatch.CopyVertexData3f(vVerts);//copy顶点数据，也就是添加数据
     
@@ -111,7 +111,7 @@ void SetupRC()
     开发者手动调用函数触发
  
  处理业务：
-    1、清除缓存区（颜色、深度、模板缓存区等）
+    1、清除缓存区（颜色、深度、模板缓存区等）（渲染三清除）
     2、使用存储着色器
     3、绘制图像
  */

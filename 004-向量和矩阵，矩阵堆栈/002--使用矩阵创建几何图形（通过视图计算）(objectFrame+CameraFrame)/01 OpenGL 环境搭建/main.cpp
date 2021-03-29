@@ -209,7 +209,7 @@ void RenderScene(void)
     modelViewMatrix.PushMatrix();//copy一份栈顶指针，并压栈
     
     
-    //3.获取摄像头矩阵
+    //3.获取摄像机矩阵
     M3DMatrix44f mCamera;
     //从camereaFrame中获取矩阵，赋给mCamera
     cameraFrame.GetCameraMatrix(mCamera);

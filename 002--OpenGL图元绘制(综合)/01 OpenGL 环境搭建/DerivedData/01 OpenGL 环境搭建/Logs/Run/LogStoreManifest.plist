@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>C0956FFB-68CC-4D26-A703-B3FE134DCD3C</key>
+		<key>914CD569-FD1A-4598-84AB-6562116B1848</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>C0956FFB-68CC-4D26-A703-B3FE134DCD3C.xcactivitylog</string>
+			<string>914CD569-FD1A-4598-84AB-6562116B1848.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,13 @@
 			<key>signature</key>
 			<string>Run 01 OpenGL 环境搭建</string>
 			<key>timeStartedRecording</key>
-			<real>636813262.71757305</real>
+			<real>637720482.31851006</real>
 			<key>timeStoppedRecording</key>
-			<real>636813419.50915205</real>
+			<real>637720513.97980201</real>
 			<key>title</key>
 			<string>Run 01 OpenGL 环境搭建</string>
 			<key>uniqueIdentifier</key>
-			<string>C0956FFB-68CC-4D26-A703-B3FE134DCD3C</string>
+			<string>914CD569-FD1A-4598-84AB-6562116B1848</string>
 		</dict>
 	</dict>
 </dict>
