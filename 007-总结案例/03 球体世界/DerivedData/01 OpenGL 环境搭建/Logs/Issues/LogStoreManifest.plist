@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3FEA9626-A165-433E-B1B4-603344C25BDE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>3FEA9626-A165-433E-B1B4-603344C25BDE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>01_OpenGL_环境搭建-etgofakmhtbucfeprffydqyzjyfm</string>
+			<key>timeStartedRecording</key>
+			<real>641088316.43297994</real>
+			<key>timeStoppedRecording</key>
+			<real>641088318.24161005</real>
+			<key>title</key>
+			<string>Build target 01 OpenGL 环境搭建</string>
+			<key>uniqueIdentifier</key>
+			<string>3FEA9626-A165-433E-B1B4-603344C25BDE</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
