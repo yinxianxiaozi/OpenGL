@@ -6,40 +6,6 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>1F778A16-7EC3-440E-BA23-0B627AF14656</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>1F778A16-7EC3-440E-BA23-0B627AF14656.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>01 OpenGL 环境搭建 project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>01 OpenGL 环境搭建</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run 01 OpenGL 环境搭建</string>
-			<key>timeStartedRecording</key>
-			<real>637685230.52362502</real>
-			<key>timeStoppedRecording</key>
-			<real>637685264.79130197</real>
-			<key>title</key>
-			<string>Run 01 OpenGL 环境搭建</string>
-			<key>uniqueIdentifier</key>
-			<string>1F778A16-7EC3-440E-BA23-0B627AF14656</string>
-		</dict>
 		<key>ED4F8BEC-A040-4266-BD29-A7E2C381D497</key>
 		<dict>
 			<key>className</key>
